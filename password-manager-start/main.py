@@ -71,7 +71,7 @@ generate_button.grid(column=2, row=3, sticky='e')
 add_button.grid(column=1, row=4, columnspan=2)
 
 website_text.focus()
-email_text.insert(0,email)
+email_text.insert(0, email)
 
 
 window.mainloop()
